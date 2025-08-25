@@ -1,5 +1,5 @@
 import tweepy 
-import Tkinter
+import tkinter
 
 consumer_key = 'consumer key'
 consumer_secret = 'consumer secrets'
