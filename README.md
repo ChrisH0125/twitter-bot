@@ -1,2 +1,2 @@
-# twitter-bot
-=
+# Twitter-Bot
+A simple twitter bot!
